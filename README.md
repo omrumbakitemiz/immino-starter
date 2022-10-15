@@ -6,4 +6,5 @@ Template with Vite + React + TS - Vitest
 - [x] Vite
 - [x] Vitest
 - [x] Eslint/prettier
-- [ ] Tailwind
+- [x] Tailwind
+- [x] Typescript
